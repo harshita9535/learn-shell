@@ -1,5 +1,0 @@
-Hello World
-
-Saying Hi
-
-end
