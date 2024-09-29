@@ -14,3 +14,4 @@ example1() {
   echo "value of # - $#"
 }
  example1 10 20 30
+ example1 $*
