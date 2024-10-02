@@ -81,6 +81,7 @@ fi
 
 if [ -z $x ]; then
   echo Input missing
+fi
 
 
 # Handle input missing
