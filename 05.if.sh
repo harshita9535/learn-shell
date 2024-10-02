@@ -79,7 +79,7 @@ fi
 
 ## Variables in expressions better to provide in double quotes when it is string
 
-if [ -z $x ]; then
+if [ $x == new ]; then
   echo Input missing
 fi
 
