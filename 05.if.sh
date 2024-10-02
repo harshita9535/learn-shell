@@ -84,7 +84,7 @@ x=$1
 
 if [ -z "$x" ]; then
   echo Input missing
-  exit
+  exit 1
 fi
 
 if [ $x -gt 100 ]; then
