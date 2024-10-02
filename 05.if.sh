@@ -85,7 +85,6 @@ else
   echo "$x is less than 100"
 fi
 
-
 # Handle input missing
 
 x=$1
