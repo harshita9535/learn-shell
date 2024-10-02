@@ -68,7 +68,8 @@ EOF
 # -e , [ -e /etc/file ]
 
 
-x=10
+x=$1
+
 if [ $x -gt 10 ]; then
   echo "$x is greater than 100"
 else
